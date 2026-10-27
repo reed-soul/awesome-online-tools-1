@@ -41,6 +41,7 @@
 
 ## Image Tools
 
+- [ImgFlow](https://imgflow.taoliapp.com/en/) - Free in-browser image compressor and converter (HEIC, WebP, AVIF); files never leave your device.
 - [ImgKit](https://img-kit.com) - 50+ image tools: resize, compress, convert, format changer.
 - [TinyPNG](https://tinypng.com) - Smart PNG and JPEG compression.
 - [Squoosh](https://squoosh.app) - Image compression by Google.
